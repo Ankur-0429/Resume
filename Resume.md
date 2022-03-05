@@ -63,6 +63,19 @@ table {
 * Projected launch of this app to google play by mid-Febuary
 
 <div id="leftAlign">
+    Second Place Winner of CruzHacks 2022
+    <a href="https://devpost.com/software/cruzhacks-2022-9suva2">
+    <img src="open-link.png" alt="drawing" style="width:20px;"/>
+  </a>
+</div>
+<div id="rightAlign">
+</div>
+<div style="clear: both;"></div>
+
+* built an ml model that categorizes prescription bottles by name
+* used webscraper to grab over 6000 different types of drugs from the fda api
+
+<div id="leftAlign">
     A Star Pathfinding Algorithm Visualizer
     <a href="https://astaralgorithm.ankurahir.repl.co/">
     <img src="open-link.png" alt="drawing" style="width:20px;"/>
