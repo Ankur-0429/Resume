@@ -60,7 +60,7 @@ table {
      *  user-generated data maintained by firestore
      *  search query by the Google Places API
 * built an automated script to launch our main ML backend solution using docker and Google Cloud Run
-* Projected launch of this app to google play by mid-Febuary
+* current development build on Google Play
 
 <div id="leftAlign">
     Second Place Winner of CruzHacks 2022
